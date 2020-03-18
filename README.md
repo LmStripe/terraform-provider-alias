@@ -1,1 +1,1 @@
-# terraform-provider-alies
+# terraform-provider-alias
